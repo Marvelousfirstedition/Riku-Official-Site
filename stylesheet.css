@@ -11,7 +11,7 @@ a{
     text-decoration: none;
 }
 
-#header {
+.container-header {
     height: 65px;
     width: 100%;
     background-color:cyan;
