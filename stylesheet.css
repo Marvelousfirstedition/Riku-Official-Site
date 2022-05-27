@@ -43,6 +43,8 @@ header {
 
 .video-wrapper{
     padding: 100px 0 100px 0;
+    margin-right: 100px;
+    margin-left: 100px;
     background-color: cornflowerblue;
     width: 100%;
 }
