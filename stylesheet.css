@@ -17,7 +17,7 @@ a{
     background-color:cyan;
     position: fixed;
     top: 0;
-    z-index: 10;
+    z-index: 2;
 }
 
 .header-left p{
@@ -27,6 +27,7 @@ a{
 .header-right{
     float: right;
     transition: all 0.5s;
+    margin: 0;
 }
 
 #main{
@@ -42,8 +43,7 @@ a{
 .video-wrapper{
     padding: 100px 0 100px 0;
     background-color: cornflowerblue;
-    display: inline-block;
-    text-align: center;
+    width: 100%;
 }
 
 .profile{
