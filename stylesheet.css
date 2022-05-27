@@ -28,6 +28,7 @@ header {
     float: right;
     transition: all 0.5s;
     margin-top: 0;
+    padding-top: 0;
 }
 
 #main{
