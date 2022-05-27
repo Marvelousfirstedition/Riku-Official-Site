@@ -22,7 +22,6 @@ a{
 
 .header-left p{
     width: 124px;
-    margin-top: 20px;
 }
 
 .header-right{
@@ -43,6 +42,8 @@ a{
 .video-wrapper{
     padding: 100px 0 100px 0;
     background-color: cornflowerblue;
+    display: inline-block;
+    text-align: center;
 }
 
 .profile{
@@ -53,11 +54,19 @@ a{
     float: left;
     padding: 50px 30px 50px 30px;
     margin-bottom: 10px;
-    font-size: 20px;
+}
+
+.profile-left h1{
+    font-size: 30px; 
+}
+
+.profile-left h2{
+    font-size: 30px;
 }
 
 .profile-left h3{
     color:cyan;
+    font-size: 40px;
 }
 
 .profile-right img{
