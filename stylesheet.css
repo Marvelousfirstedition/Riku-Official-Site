@@ -27,7 +27,7 @@ header {
 .header-right{
     float: right;
     transition: all 0.5s;
-    margin: 0;
+    margin-top: 0;
 }
 
 #main{
