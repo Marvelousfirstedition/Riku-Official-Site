@@ -64,12 +64,3 @@ a{
     float: right;
     padding: 50px 30px 50px 30px;
 }
-
-.footer{
-    padding-top: 40px;
-    padding-bottom: 30px;
-}
-.footer p{
-        font-size: 30px;
-        text-align: center;
-    }
