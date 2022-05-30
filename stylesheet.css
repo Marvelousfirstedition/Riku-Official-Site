@@ -23,7 +23,7 @@ a{
     font-size: 30px;
 }
 
-.header-list ul{
+.header-list a{
     font-size: 20px;
     text-align: center;
     padding-left: 30px;
