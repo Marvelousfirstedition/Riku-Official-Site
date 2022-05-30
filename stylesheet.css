@@ -42,6 +42,10 @@ a{
     display: inline-block;
 }
 
+.video{
+    margin-left: 100px;
+}
+
 .profile{
     background-color:royalblue;
 }
