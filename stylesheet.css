@@ -36,8 +36,6 @@ header {
 }
 
 .container{
-    width: 100%;
-    padding: 0 10px;
     margin: 0 auto;
 }
 
@@ -46,7 +44,6 @@ header {
     margin-right: 100px;
     margin-left: 100px;
     background-color: cornflowerblue;
-    width: 100%;
 }
 
 .profile{
