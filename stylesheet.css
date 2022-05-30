@@ -11,9 +11,33 @@ a{
     text-decoration: none;
 }
 
+.clear{
+    clear: left;
+}
+
+.header{
+    background-color: aquamarine:
+}
+
+.header-logo{
+    font-size: 30px;
+}
+
+.header-list ul{
+    font-size: 20px;
+    text-align: center;
+    padding-left: 30px;
+}
 
 #main{
     height: 2000px;
+}
+
+.video-wrapper{
+    background-size: cover;
+    background-color: cyan;
+    margin: 0;
+    width: 100%;
 }
 
 .profile{
