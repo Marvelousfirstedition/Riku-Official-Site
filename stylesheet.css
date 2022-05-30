@@ -16,7 +16,7 @@ a{
 }
 
 .header{
-    background-color: aquamarine:
+    background-color: aquamarine;
 }
 
 .header-logo{
@@ -38,6 +38,7 @@ a{
     background-color: cyan;
     margin: 0;
     width: 100%;
+    display: inline-block;
 }
 
 .profile{
